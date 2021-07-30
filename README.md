@@ -1,1 +1,1 @@
-# HV-Power-Cable-Thermal
+# High Voltage Cable Thermal Analysis (HV-CTA)
